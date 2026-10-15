@@ -1,5 +1,4 @@
 # Lifestream-Real-Life-Mobile-Arcade-Game-with-Blood-Management-System
-# 🌐 Lifestream – Blood Donation Management System
 
 **Lifestream** is a mini‑project developed as part of my MCA coursework.  
 It is a **blood donation management system** that connects **donors, hospitals, and administrators** through a unified platform.  
