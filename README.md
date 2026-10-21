@@ -6,16 +6,16 @@ The project also integrates a **donor game** to encourage participation and make
 
 ---
 
-## 🚀 Features
-- 🩸 **Donor Portal** – Register, manage profiles, and receive real‑time alerts.
-- 🏥 **Hospital Portal** – Submit blood requests and track donor availability.
-- 🛠️ **Administrator Dashboard** – Validate requests and oversee activities.
-- 🔔 **Real‑Time Notifications** – Urgent alerts using WebSocket integration.
-- 🎮 **Gamified Donor Experience** – Interactive donor game for awareness.
+##  Features
+- **Donor Portal** – Register, manage profiles, and receive real‑time alerts.
+- **Hospital Portal** – Submit blood requests and track donor availability.
+- **Administrator Dashboard** – Validate requests and oversee activities.
+- **Real‑Time Notifications** – Urgent alerts using WebSocket integration.
+- **Gamified Donor Experience** – Interactive donor game for awareness.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** React.js  
 - **Backend:** Node.js + Express.js  
 - **Database:** MongoDB  
@@ -25,7 +25,7 @@ The project also integrates a **donor game** to encourage participation and make
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Simplify blood donation management.  
 - Provide hospitals with quick access to donor data.  
 - Encourage donor participation through gamification.  
@@ -33,13 +33,13 @@ The project also integrates a **donor game** to encourage participation and make
 
 ---
 
-## 📂 Project Status
+## Project Status
 ✅ Completed as MCA Mini Project  
 📌 Ready for demonstration and academic submission  
 
 ---
 
-## 📜 License
+## License
 This project is for **academic purposes only**.  
 Feel free to explore and learn from the codebase.
 
