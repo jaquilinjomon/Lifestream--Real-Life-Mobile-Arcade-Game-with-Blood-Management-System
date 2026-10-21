@@ -34,8 +34,8 @@ The project also integrates a **donor game** to encourage participation and make
 ---
 
 ## Project Status
-✅ Completed as MCA Mini Project  
-📌 Ready for demonstration and academic submission  
+Completed as MCA Mini Project  
+Ready for demonstration and academic submission  
 
 ---
 
